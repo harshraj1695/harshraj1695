@@ -1,10 +1,10 @@
-# Your Name
+# Harsh Raj Singh
 
 ## Introduction
-Hello! 👋 I'm [Your Name], a passionate [Your Profession] based in [Your Location]. I enjoy [Your Interests/Hobbies] and have a keen interest in [Your Technical/Professional Focus].
+Hello! 👋 I'm Harsh, a passionate CSE Student based in Chandigarh. I enjoy playing cricket and reading books and have a keen interest in DevOps.
 
 ## Skills
-- Programming Languages: [List of Languages]
+- Programming Languages: ![c Image]()
 - Technologies: [List of Technologies]
 - [Any other relevant skills]
 
