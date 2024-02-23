@@ -4,7 +4,7 @@
 Hello! 👋 I'm Harsh, a passionate CSE Student based in Chandigarh. I enjoy playing cricket and reading books and have a keen interest in DevOps.
 
 ## Skills
-- Programming Languages: ![c Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whatinfotech.com%2Fchecking-for-special-symbol-in-a-string-in-c-programming%2F&psig=AOvVaw1wFNig2nYBfUFyDqkc80HB&ust=1708762668105000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiXpJGDwYQDFQAAAAAdAAAAABAE)
+- Programming Languages: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whatinfotech.com%2Fchecking-for-special-symbol-in-a-string-in-c-programming%2F&psig=AOvVaw1wFNig2nYBfUFyDqkc80HB&ust=1708762668105000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiXpJGDwYQDFQAAAAAdAAAAABAE" alt="image " width="500" height="600">
 - Technologies: [List of Technologies]
 - [Any other relevant skills]
 
