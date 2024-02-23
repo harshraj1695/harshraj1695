@@ -1,42 +1,28 @@
-# Harsh Raj Singh
+<h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
+<h3 align="center">A passionate CSE Student from India</h3>
 
-## Introduction
-Hello! 👋 I'm Harsh, a passionate CSE Student based in Chandigarh. I enjoy playing cricket and reading books and have a keen interest in DevOps.
+- 🌱 I’m currently learning **Full Stack Development**
 
-## Skills
-- Programming Languages: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whatinfotech.com%2Fchecking-for-special-symbol-in-a-string-in-c-programming%2F&psig=AOvVaw1wFNig2nYBfUFyDqkc80HB&ust=1708762668105000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiXpJGDwYQDFQAAAAAdAAAAABAE" alt="image " width="500" height="600">
-- Technologies: [List of Technologies]
-- [Any other relevant skills]
+- 👯 I’m looking to collaborate on **Ed-Tech Projects**
 
-## Projects
-### [Project 1]
-Brief description of the project and your role/contributions.
+- 💬 Ask me about **C,C++,AWS, JAVA**
 
-### [Project 2]
-Brief description of the project and your role/contributions.
+- 📫 How to reach me **hr979447@gmail.com**
 
-## Education
-- [Degree] in [Field] - [University/Institution] - [Year]
+- ⚡ Fun fact **I Can make friend Easily**
 
-## Work Experience
-### [Job Title] - [Company] - [Year Started] to [Year Ended]
-Brief description of your role and responsibilities.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-raj-singh-122b24220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-raj-singh-122b24220" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harsh1695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh1695" height="30" width="40" /></a>
+</p>
 
-### [Job Title] - [Company] - [Year Started] to [Year Ended]
-Brief description of your role and responsibilities.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-## Certifications
-- [Certification Name] - [Issuing Organization] - [Year]
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Buy me a coffie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffie" /></a></p><br><br>
 
-## Contact
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshraj1695&show_icons=true&locale=en" alt="harshraj1695" /></p>
 
-## Blog
-[Link to your blog or portfolio if applicable]
-
-## Fun Facts
-- [Any interesting facts about yourself]
-
-Feel free to explore my repositories and connect with me! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj1695&" alt="harshraj1695" /></p>
