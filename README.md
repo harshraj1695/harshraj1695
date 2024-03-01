@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👯 I’m looking to collaborate on **Ed-Tech Projects**
+- 👯 I’m looking to collaborate on **Ed-Tech Projects.**
 
 - 💬 Ask me about **C,C++,AWS, JAVA, Frontend Development**
 
