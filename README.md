@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
 <h3 align="center">Empowering Deployment and Development: Innovations in DevOps and Full Stack Mastery</h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Ed-Tech Projects.**
 
