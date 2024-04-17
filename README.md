@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Ed-Tech Projects.**
 
-- 💬 Ask me about **C,C++,AWS, JAVA, Frontend Development**
+- 💬 Ask me about **C,C++,AWS, JAVA, Full Stack Development**
 
 - 📫 How to reach me **hr979447@gmail.com**
 
