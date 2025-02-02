@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
 <h3 align="center">Empowering Deployment and Development: Innovations in DevOps and Full Stack Mastery</h3>
 
-- 🔭 I’m currently working on [dbank](https://github.com/harshraj1695/dbank)
+- 🔭 I’m currently working on [Expense-Tracker]([https://github.com/harshraj1695/dbank](https://github.com/harshraj1695/Expense-Tracker))
 
 - 🌱 I’m currently learning **Nodejs and Kubernates**
 
