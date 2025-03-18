@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Smart Expense Tracker**
 
-- 👨‍💻 All of my projects are available at [https://harshraj1695.github.io/portfolio1/](https://harshraj1695.github.io/portfolio1/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://harshraj1695.github.io/portfolio1/)
 
 - 💬 Ask me about **C++,DSA,Docker And Frontend Development**
 
