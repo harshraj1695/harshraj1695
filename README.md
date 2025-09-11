@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
-<h3 align="center">DevOps Professional Skilled in System Programming and Linux Kernel Development/h3>
+<h3 align="center">DevOps Professional Skilled in System Programming and Linux Kernel Development</h3>
 
 - 🔭 I’m currently working on [Expense-Tracker](https://github.com/harshraj1695/Expense-Tracker)
 
