@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
-<h3 align="center">Empowering Deployment and Development: Innovations in DevOps and Full Stack Mastery</h3>
+<h3 align="center">DevOps Professional Skilled in System Programming and Linux Kernel Development/h3>
 
 - 🔭 I’m currently working on [Expense-Tracker](https://github.com/harshraj1695/Expense-Tracker)
 
-- 🌱 I’m currently learning **Nodejs and Kubernates**
+- 🌱 I’m currently learning **System Programming and Linux Kernel**
 
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+- 👯 I’m looking to collaborate on **System Programming and Linux Kernel**
 
-- 🤝 I’m looking for help with **Smart Expense Tracker**
+- 🤝 I’m looking for help with **TCP based Mutithreaded Chat Application**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshraj1695.github.io/portfolio1/)
 
-- 💬 Ask me about **C++,DSA,Docker And Frontend Development**
+- 💬 Ask me about **C,C++,DSA,Docker, Linux And System Programming, Socket and mutithreaded Application**
 
 - 📫 How to reach me **hr979447@gmail.com**
 
