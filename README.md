@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
 <h3 align="center">DevOps Professional Skilled in System Programming and Linux Kernel Development</h3>
 
-- 🔭 I’m currently working on [Expense-Tracker](https://github.com/harshraj1695/Expense-Tracker)
+- 🔭 I’m currently working on [Kernel Programming](https://github.com/harshraj1695/kernel_programing)
 
 - 🌱 I’m currently learning **System Programming and Linux Kernel**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshraj1695.github.io/portfolio1/)
 
-- 💬 Ask me about **C,C++,DSA,Docker, Linux And System Programming, Socket and mutithreaded Application**
+- 💬 Ask me about **C, C++, DSA, Docker, Linux and System Programming, Socket, and multi-threaded Application**
 
 - 📫 How to reach me **hr979447@gmail.com**
 
