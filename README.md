@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **System Programming and Linux Kernel**
 
-- 🤝 I’m looking for help with **TCP based Mutithreaded Chat Application**
+- 🤝 I’m looking for help with **Kernel Programming And DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshraj1695.github.io/portfolio1/)
 
