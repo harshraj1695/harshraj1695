@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
 <h3 align="center">DevOps Professional Skilled in System Programming and Linux Kernel Development</h3>
 
-- 🔭 I’m currently working on [Kernel Programming](https://github.com/harshraj1695/kernel_programing)
+- 🔭 I’m currently working on [DPDK](https://github.com/harshraj1695/DPDK_STARTER)
 
-- 🌱 I’m currently learning **System Programming and Linux Kernel**
+- 🌱 I’m currently learning **DPDK**
 
-- 👯 I’m looking to collaborate on **System Programming and Linux Kernel**
+- 👯 I’m looking to collaborate on **System Programming, Linux Kernel, Drivers, DPDK**
 
-- 🤝 I’m looking for help with **Kernel Programming And DevOps**
+- 🤝 I’m looking for help with **Kernel Programming And DPDK**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshraj1695.github.io/portfolio1/)
 
-- 💬 Ask me about **C, C++, DSA, Docker, Linux and System Programming, Socket, and multi-threaded Application**
+- 💬 Ask me about **C, C++, DSA, Docker, DPDK, Linux and System Programming, Socket, and multi-threaded Application**
 
 - 📫 How to reach me **hr979447@gmail.com**
 
