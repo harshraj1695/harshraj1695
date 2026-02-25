@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [DPDK](https://github.com/harshraj1695/DPDK_STARTER)
 
-- 🌱 I’m currently learning **DPDK**
+- 🌱 I’m currently learning **DPDK & VPP**
 
 - 👯 I’m looking to collaborate on **System Programming, Linux Kernel, Drivers, DPDK**
 
 - 🤝 I’m looking for help with **Kernel Programming And DPDK**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://harshraj1695.github.io/portfolio1/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.harshraj1695.shop/)
 
-- 💬 Ask me about **C, C++, DSA, Docker, DPDK, Linux and System Programming, Socket, and multi-threaded Application**
+- 💬 Ask me about **C, C++, DSA, Docker, DPDK, VPP, Linux and System Programming, Socket, and multi-threaded Application**
 
 - 📫 How to reach me **hr979447@gmail.com**
 
