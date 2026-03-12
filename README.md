@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ SINGH</h1>
 <h3 align="center">DevOps Professional Skilled in System Programming and Linux Kernel Development</h3>
 
-- 🔭 I’m currently working on [DPDK](https://github.com/harshraj1695/DPDK_STARTER)
+- 🔭 I’m currently working on [DPDK](https://github.com/harshraj1695/DPDK_STARTER) & [VPP](https://github.com/harshraj1695/VPP_For_Beginners)
 
 - 🌱 I’m currently learning **DPDK & VPP**
 
