@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [VPP_Custom_Start_Node](https://github.com/harshraj1695/VPP_Custom_Start_Node)
 
-- 🌱 I’m currently learning **DPDK & VPP**
+- 🌱 I’m currently learning ** Python **
 
-- 👯 I’m looking to collaborate on **System Programming, Linux Kernel, Drivers, DPDK**
+- 👯 I’m looking to collaborate on **System Programming, Linux Kernel, Drivers, DPDK, VPP & PYTHON**
 
 - 🤝 I’m looking for help with **Kernel Programming And DPDK**
 
